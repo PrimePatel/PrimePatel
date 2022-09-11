@@ -40,3 +40,13 @@ repo specific
 
 
 change parameters
+
+[link to generator](https://streak-stats.demolab.com/demo/) by https://github.com/DenverCoder1
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=primepatel&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+
+
+[link to repo](https://github.com/anuraghazra/github-readme-stats) by https://github.com/anuraghazra)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primepatel&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
