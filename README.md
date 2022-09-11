@@ -21,3 +21,10 @@
 <br>
 
 <img alt="primepatel's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=primepatel&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=primepatel&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+
+<br>
+
