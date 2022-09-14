@@ -50,3 +50,8 @@ change parameters
 [link to repo](https://github.com/anuraghazra/github-readme-stats) by https://github.com/anuraghazra)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primepatel&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+contribution chart from [ashutosh](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="primepatel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=primepatel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
