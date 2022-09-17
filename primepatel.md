@@ -55,3 +55,21 @@ change parameters
 contribution chart from [ashutosh](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="primepatel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=primepatel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+
+
+
+Top languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="primepatel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primepatel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+# Badges
+
+[link to badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+<img alt="C" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
+
+<img alt="C" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
