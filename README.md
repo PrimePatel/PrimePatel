@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hi 👋, I'm Prime Patel </h1>
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=My+name+is+Manish+Patel%2C;A+Part-time+Programmer+;A+Future+Mathematician;An+Occasional+Magician;A+Passionate+ML+Engineer" alt="Typing SVG"/>
-
 <p align="center">
 <a href="https://dev.to/primepatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="primepatel" height="30" width="40" /></a>
 <a href="https://twitter.com/primespatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="primespatel" height="30" width="40" /></a>
