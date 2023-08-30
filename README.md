@@ -17,9 +17,9 @@
 <p align="center"><div> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=primepatel&title=Followers&title=Commits&title=Repositories&title=Issues" alt="primepatel"/></a></div></p>
 
 
-<img alt="primepatel's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=primepatel&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<img alt="primepatel's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=primepatel&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
-<span><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="primepatel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primepatel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,css,html" height="192px"/></a></span>
+<span><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="primepatel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primepatel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=" height="192px"/></a></span>
 <!-- &exclude_repo=repo1 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=primepatel&theme=react&hide_border=true&bg_color=1F222E&border_radius=4)](https://git.io/streak-stats)
